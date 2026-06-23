@@ -95,7 +95,7 @@ Based on the dashboard analysis:
 
 ### Overview Dashboard
 
-![Overview Dashboard](screenshots/overview.png)
+![Overview Dashboard](screenshots/executive-summary.png)
 
 ### Sales Analysis
 
